@@ -30,9 +30,8 @@ Used to maintain an E-commerce database and keep track of inventory.
 # Links
 Github Repo: https://github.com/BillyBain/E-Commerce_BackEnd
 
-Video Walkthrough: 
+Video Walkthrough: https://watch.screencastify.com/v/JzGZHJ54g6dY5fVBcdhF
 
-Video Link: 
 
 # Test Instructions
 Follow the installation instructions, then using a tool like [Insomnia](https://insomnia.rest/) you can work with the API and look at change and manipulate the database.  
@@ -41,3 +40,5 @@ Follow the installation instructions, then using a tool like [Insomnia](https://
 This was a very good reinforcement training to help properly work with API's. It was initially difficult but once I got in a rhythm it became easier and easier.
 
 # Screenshot
+
+![Insomnia - New Document – My Request 6_21_2022 10_13_29 PM](https://user-images.githubusercontent.com/100814286/174928620-2f39e0d6-0512-41ad-bbbc-34a10e7ec31f.png)
