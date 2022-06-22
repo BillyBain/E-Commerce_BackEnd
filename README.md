@@ -20,7 +20,7 @@ An E-Commerce Backend used to see, push, and change items and more.
 
 3: In the same terminal run through mysql 'source db/schema.sql' to create the database
 
-4: After exiting mysql, run 'npm run seeds' to seed newly created database
+4: After exiting mysql, run 'npm run seed' to seed newly created database
 
 5: Finally run 'npm start' to start server
 
@@ -35,7 +35,7 @@ Video Walkthrough:
 Video Link: 
 
 # Test Instructions
-Follow the installation instructions, then using a tool like ['Insomnia'](https://insomnia.rest/) you can work with the API and look at change and manipulate the database.  
+Follow the installation instructions, then using a tool like [Insomnia](https://insomnia.rest/) you can work with the API and look at change and manipulate the database.  
 
 # Thoughts
 This was a very good reinforcement training to help properly work with API's. It was initially difficult but once I got in a rhythm it became easier and easier.
